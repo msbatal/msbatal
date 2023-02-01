@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Selcuk Batal!</h1>
 <h3 align="center">Founder of Nature Technology and Sunhill Int'l Holding, Author and Instructor</h3><br>
 
-- 🔭 I’m currently working on **Suprocart, Recruss, Memjoo, Bomansy, Certifigate, Verifigate and Pellup** projects
+- 🔭 I’m currently working on **Suprocart, Recruss, Memjoo, Bomansy, Certifigate, Verifigate, Tawcu and Pellup** projects
 
 - 📝 I regularly write articles on my [personal web page](https://www.mehmetbatal.com)
 
