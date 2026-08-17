@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehmet Selcuk Batal!</h1>
+<h1 align="center">Hi, I'm Mehmet Selcuk Batal! 👋</h1>
 <h3 align="center">Founder of Naature Technology and Sunhill Int'l Holding, Author and Instructor</h3><br>
 
 - 🔭 I’m currently working on **Recruss, Memjoo, Bomansy, Certifigate, Verifigate,** and **Tawcu** projects
