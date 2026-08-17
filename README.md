@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mehmet Selcuk Batal!</h1>
 <h3 align="center">Founder of Naature Technology and Sunhill Int'l Holding, Author and Instructor</h3><br>
 
-- 🔭 I’m currently working on **Recruss, Memjoo, Bomansy, Onducera, Lambda, Certifigate, Verifigate, Tawcu** and **Pellup** projects
+- 🔭 I’m currently working on **Recruss, Memjoo, Bomansy, Certifigate, Verifigate,** and **Tawcu** projects
 
 - 📝 I regularly write articles on my [personal web page](https://www.mehmetbatal.com)
 
-- 💬 You can ask me about **JavaScript, PHP, C#, and Python**
+- 💬 You can ask me about **JavaScript, PHP, C#, Python,** and **AI**
 
 - 📄 Know about my experiences via my [LinkedIn page](https://www.linkedin.com/in/msbatal)
 
